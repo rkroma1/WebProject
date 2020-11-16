@@ -1,2 +1,2 @@
 # WebProject
-Project to create a web Application with HTML, CSS, and JavaScript
+Project to Fitness Page web application with HTML, CSS, and JavaScript
