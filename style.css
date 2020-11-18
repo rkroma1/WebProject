@@ -40,8 +40,25 @@ ul {
     border: 3px solid #606d69;
     align-items: center;
     margin: auto;
+    border-radius: 5px;
+  background-color: #f2f2f2;
   }
   img{
       align-items: center;
       margin-left: 10em;
   }
+ .bmi input[type=text]:focus {
+  border: 3px solid #555;
+ }
+ .bmi input[type=button]{
+  background-color: #626862;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+ .bmi p {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+ }
